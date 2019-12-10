@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2019-09-22T16:07:23Z" finished-at="2019-09-22T16:07:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2019-09-22T16:07:23Z" finished-at="2019-09-22T16:07:24Z">
+      <class name="testpackage.Class3">
+        <test-method status="PASS" signature="dataprocessing(java.lang.Object, java.lang.Object)[pri:0, instance:testpackage.Class3@5f375618]" name="dataprocessing" duration-ms="8" started-at="2019-09-22T21:37:24Z" data-provider="getdata" finished-at="2019-09-22T21:37:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firstusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firstpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataprocessing -->
+        <test-method status="PASS" signature="dataprocessing(java.lang.Object, java.lang.Object)[pri:0, instance:testpackage.Class3@5f375618]" name="dataprocessing" duration-ms="1" started-at="2019-09-22T21:37:24Z" data-provider="getdata" finished-at="2019-09-22T21:37:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Secondtusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataprocessing -->
+        <test-method status="PASS" signature="dataprocessing(java.lang.Object, java.lang.Object)[pri:0, instance:testpackage.Class3@5f375618]" name="dataprocessing" duration-ms="0" started-at="2019-09-22T21:37:24Z" data-provider="getdata" finished-at="2019-09-22T21:37:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thirdusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataprocessing -->
+      </class> <!-- testpackage.Class3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,7 @@
+package RahulShettyAdvAuto.section29;
+
+public class class232method {
+public void checker() {
+	System.out.println("This is Checker method");
+}
+}

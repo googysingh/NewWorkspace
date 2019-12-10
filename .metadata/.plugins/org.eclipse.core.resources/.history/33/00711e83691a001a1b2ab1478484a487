@@ -1,0 +1,11 @@
+package RahulShettyAdvAuto.section29;
+
+public class class235 {
+
+	public static void main(String[] args) {
+		int a[]= {2,5,8,7,4};
+		System.out.println(a[0]);
+
+	}
+
+}
